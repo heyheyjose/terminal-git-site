@@ -1,0 +1,26 @@
+body {
+	background: #da7aad;
+}
+
+h1 {
+	color: purple;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h3 {
+	background-color: red;
+}
+
+p {
+	color: #5efe66;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+li {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#lol {
+	color: blue;
+}
